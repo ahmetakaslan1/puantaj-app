@@ -3,7 +3,7 @@
   <h1>Puantajım</h1>
   <p>Minimalist, hızlı ve tamamıyla internetsiz çalışan kişisel iş takip ve puantaj uygulaması.</p>
   
-  <a href="https://github.com/KULLANICI_ADIN/puantajim/releases/latest">
+  <a href="https://github.com/ahmetakaslan1/puantaj-app/releases/latest/download/app-release.apk">
     <img src="https://img.shields.io/badge/APK_İNDİR-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
 </div>
@@ -46,7 +46,7 @@ Eğer bu projeyi kendi bilgisayarınızda derlemek isterseniz aşağıdaki adım
 
 1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/KULLANICI_ADIN/puantajim.git
+   git clone https://github.com/ahmetakaslan1/puantaj-app.git
    ```
 2. Proje dizinine girin:
    ```bash
