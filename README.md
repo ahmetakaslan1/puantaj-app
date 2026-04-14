@@ -28,7 +28,11 @@ Puantajım, kullanıcıların günlük çalıştıkları işleri karmaşıklıkt
 *(Buraya uygulamanın 2-3 adet ekran görüntüsünü sürükleyip bırakabilirsin)*
 | Ana Ekran (Aktif) | Takvim & İşaretleme | Not Ekleme |
 | :---: | :---: | :---: |
-| <img src="EKRAN_GORUNTUSU_LINKI_1" width="200"/> | <img src="EKRAN_GORUNTUSU_LINKI_2" width="200"/> | <img src="EKRAN_GORUNTUSU_LINKI_3" width="200"/> |
+|<img width="200" alt="image" src="https://github.com/user-attachments/assets/2c2bfafc-ff44-4101-832f-b400858d4906" />
+ | <img width="200" alt="image" src="https://github.com/user-attachments/assets/87118624-ca02-45ea-8894-ade2e801a38d" />
+ 
+ | <img width="200"  alt="image" src="https://github.com/user-attachments/assets/f0ffa956-2398-4b86-8924-b4639b502f99" />
+ |
 
 ---
 
